@@ -14,6 +14,15 @@ const rss = [
     title: 'freeCodeCamp English',
     url: 'https://www.freecodecamp.org/news/author/matias-hernandez/rss/'
   },
+  {
+    title: 'Café con Tech',
+    url: 'https://feeds.buzzsprout.com/1081172.rss'
+  },
+  {
+    title: 'Control Remoto',
+    url: 'https://feeds.buzzsprout.com/1057351.rss'
+  },
+ 
 ];
 
 module.exports = rss;
