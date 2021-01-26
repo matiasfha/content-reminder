@@ -1,7 +1,14 @@
 const rss = [
   {
-    title: 'Matias Hernandez',
-    url: 'https://www.matiashernandez.dev/rss.xml',
+    title: 'Hashnode Matias Hernandez',
+    url: 'https://h.matiashernandez.dev/rss.xml',
+    filters: {
+      after: 1546318800000
+    }
+  },
+  {
+    title: 'Dev.to Matias Hernandez',
+    url: 'https://dev.to/feed/matiasfha',
     filters: {
       after: 1546318800000
     }
