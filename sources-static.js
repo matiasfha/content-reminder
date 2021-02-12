@@ -118,6 +118,38 @@ const static = [
       "title": "egghead.io",
       "link": "https://egghead.io/instructors/matias-hernandez?af=4cexzz"
     }
+  },
+  {
+    "title": "Clases o funciones al escribir componentes React?",
+    "link": "https://twitter.com/matiasfha/status/1359994273165422594?s=20",
+    "source": {
+      "title": "Twitter Thread",
+      "link": "https://twitter.com/matiasfha"
+    }
+  },
+  {
+    "title": "¿Cuál es la diferencia entre los hooks useEffect y useLayoutEffect",
+    "link": "https://twitter.com/matiasfha/status/1324102278756864001?s=20",
+    "source": {
+      "title": "Twitter Thread",
+      "link": "https://twitter.com/matiasfha"
+    }
+  },
+  {
+    "title": "useEffect y los estados del ciclo de vida de un componente. Son comparables?",
+    "link": "https://twitter.com/matiasfha/status/1322701882347970562?s=20",
+    "source": {
+      "title": "Twitter Thread",
+      "link": "https://twitter.com/matiasfha"
+    }
+  },
+  {
+    "title": "React es un framework de Javascript que ocupa un compilador para ejecutarse",
+    "link": "https://twitter.com/matiasfha/status/1319749966965936128?s=20",
+    "source": {
+      "title": "Twitter Thread",
+      "link": "https://twitter.com/matiasfha"
+    }
   }
 ]
 
