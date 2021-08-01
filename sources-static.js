@@ -1,4 +1,9 @@
-const static = [
+const static =
+{
+    "title": "Why we choose typescript all the way through",
+    "link": "https://clevertech.biz/insights/why-we-choose-typescript-all-the-way-through",
+  },
+
   {
     "title": "Course: Creating a gatsby source plugin",
     "link": "https://egghead.io/playlists/creating-a-gatsby-source-plugin-3f01?af=4cexzz",
