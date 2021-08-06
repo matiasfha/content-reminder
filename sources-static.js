@@ -1,9 +1,69 @@
-const static =
-{
+const static =[
+  {
     "title": "Why we choose typescript all the way through",
     "link": "https://clevertech.biz/insights/why-we-choose-typescript-all-the-way-through",
+    "source": {
+      "title": "Clevertech",
+      "link": "https://clevertech.biz"
+    }
   },
-
+    {
+    "title": "Why We Choose React Query as a Server State Management Solution",
+    "link": "https://clevertech.biz/insights/why-we-choose-react-query-as-a-server-state-management-solution",
+    "source": {
+      "title": "Clevertech",
+      "link": "https://clevertech.biz"
+    }
+  },
+    
+  {
+    "title": "Hugo vs Gatsby",
+    "link": "https://draft.dev/learn/hugo-vs-gatsby",
+    "source": {
+      "title": "Draft.dev",
+      "link": "https://draft.dev"
+    }
+  },
+   
+  {
+    "title": "Las Diferencias Entre Componentes Controlados y No Controlados en React",
+    "link": "https://escuelafrontend.com/articulos/las-diferencias-entre-componentes-controlados-y-no-controlados-en-react",
+    "source": {
+      "title": "Escuela Frontend",
+      "link": "https://escuelafrontend.com"
+    }
+  },  
+    
+   
+  {
+    "title": "¿Como Funciona La Prop Key en React?",
+    "link": "https://escuelafrontend.com/articulos/como-funciona-la-prop-key-en-react",
+    "source": {
+      "title": "Escuela Frontend",
+      "link": "https://escuelafrontend.com"
+    }
+  },  
+    
+    
+  {
+    "title": "La Guía Definitiva de Métodos de Arreglos",
+    "link": "https://escuelafrontend.com/articulos/metodos-de-arreglos",
+    "source": {
+      "title": "Escuela Frontend",
+      "link": "https://escuelafrontend.com"
+    }
+  },  
+    
+    
+  {
+    "title": "Escribe Javascript Moderno con Arrow Functions",
+    "link": "https://escuelafrontend.com/articulos/arrow-functions",
+    "source": {
+      "title": "Escuela Frontend",
+      "link": "https://escuelafrontend.com"
+    }
+  },  
+    
   {
     "title": "Course: Creating a gatsby source plugin",
     "link": "https://egghead.io/playlists/creating-a-gatsby-source-plugin-3f01?af=4cexzz",
