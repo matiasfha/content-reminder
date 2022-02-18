@@ -1,4 +1,36 @@
 const static =[
+    {
+    "title": "Automatically Generate Social Sharing Images",
+    "link": "https://mediajams.dev/post/Automatically-Generate-Social-Sharing-Images",
+    "source": {
+      "title": "Media Jam",
+      "link": "https://mediajams.dev"
+    }
+  },
+  {
+    "title": "Emned media components using MDX and SvelteKit",
+    "link": "https://mediajams.dev/post/Embed-media-components-using-MDX-and-SvelteKit",
+    "source": {
+      "title": "Media Jam",
+      "link": "https://mediajams.dev"
+    }
+  },
+    {
+    "title": "Setup a Developer Blog with Social IMages using SvelteKit",
+    "link": "https://mediajams.dev/post/Setup-a-Developer-Blog-with-Social-Images-using-Sveltekit",
+    "source": {
+      "title": "Media Jam",
+      "link": "https://mediajams.dev"
+    }
+  },
+  {
+    "title": "Why XState is the state management tool you're missing out",
+    "link": "https://clevertech.biz/insights/why-x-state-is-the-state-management-tool",
+    "source": {
+      "title": "Clevertech",
+      "link": "https://clevertech.biz"
+    }
+  },
   {
     "title": "Why we choose typescript all the way through",
     "link": "https://clevertech.biz/insights/why-we-choose-typescript-all-the-way-through",
